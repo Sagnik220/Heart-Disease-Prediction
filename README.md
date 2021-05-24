@@ -1,5 +1,8 @@
 ## Heart-Disease-Prediction
 
+### Problem Statement:
+Using ML we are trying to find out/classify people with heart disease based on different parameters,for this purpose we are using the **PyCARET** library and by using it we found out that the best model to determine/predict heart disease on the data set was Logistic Regression Model.
+
 ### Work Flow:
 So we are using pycaret here,**PyCaret is an open-source, low-code machine learning library and end-to-end model management tool built-in Python for automating machine learning workflows. It is incredibly popular for its ease of use, simplicity, and ability to build and deploy end-to-end ML prototypes quickly and efficiently.**
 
